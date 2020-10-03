@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "Manuel Rivera mr98.dev@gmail.com",
   "license": "MIT",
+  "scripts": {
+    "start": "node app"
+  },
   "dependencies": {
     "colors": "^1.4.0",
     "yargs": "^16.0.3"
